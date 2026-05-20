@@ -100,6 +100,3 @@ Open http://localhost:8501 and upload images!
 - Train on ImageNet for transfer learning
 - Add webcam support for live classification
 
-## About
-
-A computer vision project demonstrating CNN architecture, training best practices, and production deployment.
