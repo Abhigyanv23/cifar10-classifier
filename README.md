@@ -30,7 +30,7 @@ Dense(10, softmax)
 
 - **Test Accuracy:** 75%+ (depends on training)
 - **Data Augmentation:** Rotation, shift, flip, zoom
-- **Training Time:** ~5-10 minutes on CPU
+- **Training Time:** ~45-60 minutes on CPU
 - **Parameters:** ~400K
 
 ## Tech Stack
