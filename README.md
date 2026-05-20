@@ -4,7 +4,7 @@ A CNN-based image classifier trained on the CIFAR-10 dataset with a web interfac
 
 ## 🌐 Live Demo
 
-**Try it online:** [CIFAR-10 Classifier on Streamlit](link-after-deployment)
+**Try it online:** [CIFAR-10 Classifier on Streamlit](https://cifar10-classifier-abhigyan.streamlit.app)
 
 Upload any image and get instant predictions across 10 object categories!
 
