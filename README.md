@@ -66,6 +66,7 @@ streamlit run app.py
 Open http://localhost:8501 and upload images!
 
 ## Project Structure
+```text
 ├── train.py                # Training script
 ├── app.py                  # Streamlit web app
 ├── requirements.txt        # Dependencies
@@ -73,7 +74,7 @@ Open http://localhost:8501 and upload images!
 ├── training_history.png   # Accuracy/loss plots
 ├── sample_predictions.png # Example predictions
 └── README.md              # This file
-
+```
 ## Features
 
 ✅ **Real-time Predictions** — Upload images and get instant classifications  
